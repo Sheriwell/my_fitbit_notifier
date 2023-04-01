@@ -1,4 +1,4 @@
 credentials.json
 token.txt
-__pycache__/
-.ipynb_checkpoints/
+/__pycache__/
+/.ipynb_checkpoints/
